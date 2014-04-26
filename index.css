@@ -1,0 +1,22 @@
+body{
+	margin:0;
+	width:100%;
+    background:#000 url(b.jpg);
+}
+img{
+	border:0;
+}
+div#login{
+  position:relative;
+  display:table;
+  margin:135px auto;
+  padding:0;
+  width:465px;
+}
+div#login .aqua{
+  float:left;
+  width:465px;
+  min-height:100px;
+  font-family:"Trebuchet MS", Arial;
+  font-size:13px;
+  color:#black;
